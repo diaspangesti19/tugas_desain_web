@@ -1,0 +1,62 @@
+<!DOCTYPE html> 
+<HTML Lang="en"> 
+  <head> 
+<meta charset="utf-8">
+    <title>Web tugas</title> 
+	
+    <link rel="stylesheet" type="text/css" href="style.css">
+  </head> 
+  <body> 
+  <h1 align="center"><b>PESONA INDONESIA</b></h1>
+    <div id="wrapper"> 
+      <header> 
+      
+        <ul id="menu-utama"> 
+          <li><a href="index.html">Home</a></li> 
+          <li><a href="AboutUs.html">About Us</a></li>
+		  <li><a href="contactUs.html">Contact Us</a></li>
+        </ul> 
+        
+      </header><!-- Penutup div "header" --> 
+ 
+      <div id="daftar-artikel"> 
+
+       <article> 
+          <img src="BALI.JPG" alt="PANTAIBALI"/> 
+          <h1> Objek Wisata Di Bali</h1>
+          <b>31 Maret 2020</b><b>Views : 50</b>
+          <p>Bali adalah sebuah pulau di Indonesia yang dikenal karena memiliki pegunungan berapi yang hijau, terasering sawah yang unik, pantai, dan terumbu karang yang cantik.</p> 
+          <a href="viewbali.html">Lihat</a></article><!-- Penutup div "artikel" --> 
+        
+      <article> 
+          <img src="RAJAAMPAT.JPG" alt="RAJAAMPAT"/> 
+          <h1> Objek Wisata Di Papua</h1>
+          <b>31 Maret 2020</b><b>Views : 100</b>
+          <p>Provinsi Papua Barat yang memiliki pulau yang teramat cantik serta kebersihan yang masih murni terjaga menjadi andalan pulau ini</p> 
+          <a href="viewrajaampat.html">Lihat</a>
+        </article><!-- Penutup div "artikel" -->
+
+       <article> 
+          <img src="SUMATRAUTARA.png" alt="AIRTERJUN"/> 
+          <h1>Objek Wisata Di Sumatra Utara</h1>
+          <b>31 Maret 2020</b><b>Views : 70</b>
+          <p>Air Terjun Sipiso Piso ini terletak di Kecamatan Merek, Kabupaten Karo dan bisa ditempuh selama 2 jam dari Kebanjahe yang merupakan ibu kota Karo</p> 
+          <a href="viewsumatra.html">Lihat</a>
+        </article><!-- Penutup div "artikel" -->
+
+      </div><!-- Penutup div "daftar-artikel" -->
+
+
+      <div id="sidebar"> 
+
+        <font color="black"><h2>Pesona Indonesia</h2></font>
+        <p><font color="black">adalah  tempat  anda  berbagi pengetahuan tentang beberapa tempat wisata yang sangat recommended bisa anda kunjungi saat liburan bersama teman , saudara ,Keluarga . disini kami menampilkan beberapa tempat wisata dan wahana yg sangat memukau untuk anda yang memiliki hobi Traveling</font></p> 
+      </div><!-- Penutup div "sidebar" --> 
+      
+      <footer> 
+        <p>Desain Web copyright 2020 by Dias Pangesti</p> 
+      </footer> <!-- Penutup div "Footer" --> 
+
+    </div><!-- Penutup div "wrapper" --> 
+  </body> 
+</HTML> 
